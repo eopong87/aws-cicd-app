@@ -1,4 +1,115 @@
-^xconst http = require('http');
++1 (646) 923-6080:
+	Before we get on a call, take a look at this, we can go over it quickly over the phone or you can have some gues-timates ready. 
+_____________________
+New Business Client Intake
+
+1. Business Basics
+    •    Business name:
+    •    Brand name (if different):
+    •    Email address to create accounts:
+    •    Phone number:
+    •    Country where the business operates:
+
+⸻
+
+2. Product Information
+    •    What product are we selling first?
+    •    Price of the product:
+    •    Cost to produce the product:
+    •    How many units do you currently have available?
+
+Product name:
+Product price:
+Cost to produce:
+Inventory available:
+
+⸻
+
+3. Product Details
+    •    What problem does this product solve?
+    •    What makes this product different from others?
+    •    Why should someone buy this product?
+
+Problem solved:
+Unique selling point:
+Reason customers will buy:
+
+⸻
+
+4. Target Customer
+    •    Who is the ideal customer?
+    •    Age range:
+    •    Gender:
+    •    Location (country or cities):
+
+Ideal customer description:
+Age range:
+Gender:
+Location:
+
+⸻
+
+5. Product Assets
+
+Please send:
+    •    Product photos
+    •    Product videos (if any)
+    •    Brand logo (if available)
+    •    Packaging photos (if available)
+
+⸻
+
+6. Shopify Store Setup
+
+Platform we will use:
+Shopify
+
+Information needed:
+    •    Product name
+    •    Product description
+    •    Product price
+    •    Shipping cost
+    •    Return policy (if any)
+
+⸻
+
+7. Advertising Account Setup
+
+Platform we will use:
+Meta Ads Manager
+
+We will create:
+
+☐ Facebook page
+☐ Instagram account
+☐ Meta Business Manager
+☐ Ad account
+
+⸻
+
+8. Shipping & Fulfillment
+    •    Where will orders ship from?
+    •    How long will shipping take?
+    •    Who will package the orders?
+
+Shipping location:
+Average shipping time:
+Fulfillment method:
+
+⸻
+
+9. Business Goals
+    •    What monthly revenue goal would you like to reach?
+    •    How many sales per month would make the business successful?
+
+Revenue goal:
+Sales goal:
+
+Nadine opong:
+	U want put this on a pdf or word
+
++1 (646) 923-6080:
+	Doconst http = require('http');
 
 const server = http.createServer((req, res) => {
   res.writeHead(200, { 'Content-Type': 'text/html' });
