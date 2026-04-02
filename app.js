@@ -8,8 +8,8 @@ const server = http.createServer((req, res) => {
       <head>
         <title>Eddie AWS App</title>
       </head>
-      <body style="background-color:black; color:white; text-align:center; margin-top:100px;">
-        <h1>🚀 Eddie's AWS App</h1>
+      <body style="background-color:red; color:white; text-align:center; margin-top:100px;">
+        <h1>🚀 Eddie's AWS Ap!!!!p</h1>
         <h2>Running on EC2 We LiTTTT!!!!!!!!</h2>
         <p>Server: ${require('os').hostname()}</p>
       </body>
